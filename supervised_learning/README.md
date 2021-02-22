@@ -3,7 +3,7 @@
 
 #### Source Code
 ```
-https://github.com/tedmanmarszalek/machine_learning/tree/master/projects/1_supervised_learning
+https://github.com/tedmanmarszalek/machine_learning/tree/main/supervised_learning
 ```
 
 #####  References / Libraries / Datasets
