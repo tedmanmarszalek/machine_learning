@@ -6,6 +6,11 @@
 https://github.com/tedmanmarszalek/machine_learning/tree/main/supervised_learning
 ```
 
+#### Run model training/estimations
+```
+The supervised_learning.ipynb script can be uploaded and executed on Google Colab
+```
+
 #####  References / Libraries / Datasets
 ```
 1. https://scikit-learn.org/stable/about.html#citing-scikit-learn
